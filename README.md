@@ -1,7 +1,7 @@
 # GLM_Tensowflow
 Code to fit GLM in Tensorflow v1
 
-Compatibility:
+Version of Python libraries:
 - numpy 1.16.2
 - tensorflow 1.13.1
 - scipy 1.5.2
