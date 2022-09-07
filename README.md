@@ -1,4 +1,4 @@
-# GLM_Tensowflow
+# GLM_Tensorflow
 This repository contains code used in Tseng et al. 2022 for fitting generalized linear models (GLM) in Tensorflow 1. 
 
 For an updated version of the code in Tensorflow 2 and tutorials for using it and fitting GLMs to real calcium imaging data, please visit the repository [**GLM_Tensorflow_2**](https://github.com/sytseng/GLM_Tensorflow_2). 
